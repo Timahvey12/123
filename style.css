@@ -1,0 +1,9 @@
+body {
+  margin: 14px;
+  padding: 5px;
+  background-color: rgb(228, 210, 210);
+}
+.carousel::after {
+  margin-bottom: 10px;
+  padding-top: 10px;
+}
